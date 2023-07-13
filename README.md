@@ -1,6 +1,9 @@
 # talks
 
-- Recon tips & tricks - OWASP Timisoara #21: 23 June 2022
+- reconFTW: a framework for assets discovery and more - EuskalHack VI: June 2023
+  - [Slides](reconftw_euskalhack23.pdf)
+
+- Recon tips & tricks - OWASP Timisoara #21: June 2022
   - [Video](https://www.youtube.com/watch?v=nexoKFXReAw)
   - [Slides](Recon_tips_&_tricks.pdf)
   - [GSlides link](https://docs.google.com/presentation/d/1AbsZO7hk6mmYzJuKKT48AlM23438OoluIgMpPlXUDLk/edit?usp=sharing)
